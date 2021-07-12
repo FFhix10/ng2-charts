@@ -60,7 +60,7 @@
     "@types/jasminewd2": "~2.0.8",
     "@types/lodash-es": "^4.17.3",
     "@types/luxon": "^1.25.0",
-    "@types/node": "^14.14.9",
+    "@types/node": "^14.17.3",
     "codelyzer": "^6.0.0",
     "cypress": "^3.8.3",
     "cypress-image-snapshot": "^3.1.1",
