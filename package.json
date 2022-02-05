@@ -43,7 +43,7 @@
     "luxon": "^1.25.0",
     "marked": "^1.2.5",
     "ngx-highlightjs": "^4.1.2",
-    "ngx-markdown": "^10.1.1",
+    "ngx-markdown": "^11.2.0",
     "prismjs": "^1.22.0",
     "rxjs": "^6.6.3",
     "tsickle": "^0.39.1",
